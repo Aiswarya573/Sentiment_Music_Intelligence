@@ -1,4 +1,4 @@
-#  Sentiment-Driven Music Intelligence System
+#  Sentiment_Music_Intelligence
 
 <div align="center">
 
@@ -12,6 +12,12 @@
 *An ML-powered system that analyzes your emotional state from text and recommends music that matches your vibe.*
 
 </div>
+## ⚡ Key Highlights
+
+- Built using **Machine Learning + NLP**
+- Real-time **sentiment detection with confidence**
+- Smart **music recommendation system**
+- Beginner-friendly **GUI application**
 
 ---
 
@@ -64,7 +70,7 @@ User Input
 
 ---
 
-## 🖥️ GUI Preview
+##  GUI Preview
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -89,6 +95,9 @@ User Input
 │ ● EDM           │ ♪ Uptown Funk - Bruno Mars        │
 └─────────────────────────────────────────────────────┘
 ```
+##  Real Application Screenshot
+
+![App Screenshot](screenshot.png)
 
 ---
 
@@ -115,7 +124,11 @@ sentiment-driven-music-intelligence-system/
 
 ##  Getting Started
 
+### Step 1: Clone the Repository
 
+```bash
+git clone https://github.com/Aiswarya573/Sentiment_Music_Intelligence.git
+cd Sentiment_Music_Intelligence
 ```
 
 ### Step 2: Install Dependencies
@@ -138,8 +151,7 @@ python main.py
 
 ---
 
-## 
- Dataset
+##  Dataset
 
 This project uses the **[Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)** (1.6 million tweets).
 
@@ -190,7 +202,6 @@ Recommended Songs  :
 - **Math / Collections** — Naïve Bayes implementation (no sklearn dependency)
 
 ---
-
 ##  Future Improvements
 
 - [ ] Integrate **Spotify API** for real-time song recommendations
@@ -220,9 +231,8 @@ Made with  | Machine Learning Mini Project
 
 </div>
 ##  Author
-**Aiswarya Tech**  
-GitHub: https://github.com/Aiswarya573  
-LinkedIn: https://www.linkedin.com/in/aiswarya-m-257002381/
-##  Project Screenshot
 
-![App Screenshot](screenshot.png)
+**Aiswarya Tech**  
+  GitHub   : https://github.com/Aiswarya573
+  LinkedIn :https://www.linkedin.com/in/aiswarya-m-257002381/
+  
